@@ -16,6 +16,8 @@ Technology stack - Python, Django , HTML , CSS.
 ![Homepage](readme/1.png)
 ###### Host Login
 ![Homepage](readme/2.png)
+###### Host managing panel
+![Homepage](readme/5.png)
 ###### Visitor Check-in
 ![Homepage](readme/3.png)
 ###### Visitor Check-out;
@@ -24,3 +26,11 @@ Technology stack - Python, Django , HTML , CSS.
 ![Homepage](readme/visitor.JPG)
 ###### Mail recieved by visitor @ check-out.
 ![Homepage](readme/visiting.JPG)
+
+## To pull and use this system on a device.
+1.Install latest version of pip, python, Django.  
+2.Become superuser of the app.  
+3.Use your own database.
+4.set EMAIL_HOST_USER  and EMAIL_HOST_PASSWORD in the settings.py
+
+### Made with ❤ by VikramC.
