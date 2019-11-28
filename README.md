@@ -22,7 +22,7 @@ Technology stack - Python, Django , HTML , CSS, Bootsrap4.
 ![Homepage](readme/3.png)
 #### Visitor Check-out;
 ![Homepage](readme/4.png)
-###### Mail recieved by Host @ check-out of any visitor.
+#### Mail recieved by Host @ check-out of any visitor.
 ![Homepage](readme/visitor.JPG)
 #### Mail recieved by visitor @ check-out.
 ![Homepage](readme/visiting.JPG)
