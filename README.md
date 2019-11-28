@@ -34,4 +34,4 @@ Technology stack - Python, Django , HTML , CSS, Bootsrap4.
 4.Set EMAIL_HOST_USER  and EMAIL_HOST_PASSWORD in the settings.py.  
 5.There can be only one host for the system as of now and the details of the host can be changed from the admin panel.  
 
-### Made with ❤ by VikramC.
+##### Made with ❤ by VikramC.
