@@ -1,6 +1,6 @@
 # EMS
 A digital entry management system.  
-Technology stack - Python, Django , HTML , CSS.  
+Technology stack - Python, Django , HTML , CSS, Bootsrap4.  
 
 ## Approach-
 0.The website is built using python django framework.
@@ -29,7 +29,7 @@ Technology stack - Python, Django , HTML , CSS.
 
 ## To pull and use this system on a device.
 1.Install latest version of pip, python, Django.  
-2.Become superuser of the app.
+2.Become superuser of the app.  
 3.Use your own database.  
 4.Set EMAIL_HOST_USER  and EMAIL_HOST_PASSWORD in the settings.py.  
 5.There can be only one host for the system as of now and the details of the host can be changed from the admin panel.  
