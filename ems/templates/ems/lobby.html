@@ -1,11 +1,14 @@
 {% extends 'ems/base.html' %}
 
 {% block content %}
-<h1> HI </h1>
-{{ data.visitor_name }}
+<h1> Hi, {{ data.visitor_name }} </h1>
+<br>
+<h3> You are in the office :-) </h3>
+<br>
+
 <form  method="POST">
     {% csrf_token %}
     {{ form.as_p }}
-    <input type="submit" value="Submit">
+    <input type="submit" value="Wanna Check-out">
 </form>
 {% endblock %}
