@@ -10,21 +10,21 @@ Technology stack - Python, Django , HTML , CSS.
 4.Then all the funtionalities of the app are implemented in the views.py.  
 5.Mails can be sent via django's inbuilt backend mail and SMS's to specific numbers can be triggered by integrating Twillo's rest api.  
 
-###### Homapage
+#### Homepage
 ![Homepage](readme/image.png)
-###### Host Registration
+#### Host Registration
 ![Homepage](readme/1.png)
-###### Host Login
+#### Host Login
 ![Homepage](readme/2.png)
-###### Host managing panel
+#### Host managing panel
 ![Homepage](readme/5.png)
-###### Visitor Check-in
+#### Visitor Check-in
 ![Homepage](readme/3.png)
-###### Visitor Check-out;
+#### Visitor Check-out;
 ![Homepage](readme/4.png)
 ###### Mail recieved by Host @ check-out of any visitor.
 ![Homepage](readme/visitor.JPG)
-###### Mail recieved by visitor @ check-out.
+#### Mail recieved by visitor @ check-out.
 ![Homepage](readme/visiting.JPG)
 
 ## To pull and use this system on a device.
