@@ -1,0 +1,30 @@
+{% extends 'ems/base.html' %}
+
+{% block content %}
+<table class="table table-bordered">
+        <thead class="thead-light">
+            <tr>
+                <th>Visitor_Name</th>
+                <th>Email</th>
+                <th>Phone</th>
+                <th>Check-in</th>
+                <th>Check-out</th>
+            </tr>
+        </thead>
+
+        
+
+        <tbody>
+            {% for visitor in data %}
+                <tr>
+                    <td>{{ visitor.visitor_name }}</td>
+                    <td>{{ visitor.email }}</td>
+                    <td>{{ visitor.phone }}</td>
+                    <td>{{ visitor.checkin }}</td>
+                    <td>{{ visitor.checkout }}</td>
+                </tr>
+            {% endfor %}
+
+        </tbody>
+    </table>
+{% endblock %}
