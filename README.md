@@ -3,7 +3,7 @@ A digital entry management system.
 Technology stack - Python, Django , HTML , CSS, Bootsrap4.  
 
 ## Approach-
-0.The website is built using python django framework.
+0.The website is built using python django framework.  
 1.First I setup the dependencies for app and basic structure of the app.  
 2.Then created django models.py(classes) which defines the schema of the website.  
 3.This website uses sqlite3 database to store data.  
