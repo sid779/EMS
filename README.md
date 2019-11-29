@@ -1,6 +1,6 @@
 # EMS
 A digital entry management system.  
-Technology stack - Python, Django , HTML , CSS, Bootsrap4.  
+Technology stack - Python, Django , HTML , CSS, Bootstrap4.  
 
 ## Approach-
 0.The website is built using python django framework.  
